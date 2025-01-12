@@ -36,6 +36,7 @@ const AddCompany = () => {
         data
       );
       console.log("success");
+      console.log(response);
     } catch (err) {
       console.log("Error:", err);
     }
