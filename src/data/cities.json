@@ -1,0 +1,23 @@
+[
+    { "value": "jaipur,rajasthan", "label": "Jaipur, Rajasthan" },
+    { "value": "mumbai,maharashtra", "label": "Mumbai, Maharashtra" },
+    { "value": "delhi,delhi", "label": "Delhi, Delhi" },
+    { "value": "bengaluru,karnataka", "label": "Bengaluru, Karnataka" },
+    { "value": "chennai,tamilnadu", "label": "Chennai, Tamil Nadu" },
+    { "value": "kolkata,westbengal", "label": "Kolkata, West Bengal" },
+    { "value": "pune,maharashtra", "label": "Pune, Maharashtra" },
+    { "value": "hyderabad,telangana", "label": "Hyderabad, Telangana" },
+    { "value": "ahmedabad,gujarat", "label": "Ahmedabad, Gujarat" },
+    { "value": "lucknow,uttarpradesh", "label": "Lucknow, Uttar Pradesh" },
+    { "value": "kochi,kerala", "label": "Kochi, Kerala" },
+    { "value": "chandigarh,chandigarh", "label": "Chandigarh, Chandigarh" },
+    { "value": "bhopal,madhyapradesh", "label": "Bhopal, Madhya Pradesh" },
+    { "value": "guwahati,assam", "label": "Guwahati, Assam" },
+    { "value": "visakhapatnam,andhrapradesh", "label": "Visakhapatnam, Andhra Pradesh" },
+    { "value": "patna,bihar", "label": "Patna, Bihar" },
+    { "value": "srinagar,jammukashmir", "label": "Srinagar, Jammu & Kashmir" },
+    { "value": "nagpur,maharashtra", "label": "Nagpur, Maharashtra" },
+    { "value": "udaipur,rajasthan", "label": "Udaipur, Rajasthan" },
+    { "value": "gurugram,haryana", "label": "Gurugram, Haryana" }
+  ]
+  
