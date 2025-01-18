@@ -18,6 +18,8 @@
     { "value": "srinagar,jammukashmir", "label": "Srinagar, Jammu & Kashmir" },
     { "value": "nagpur,maharashtra", "label": "Nagpur, Maharashtra" },
     { "value": "udaipur,rajasthan", "label": "Udaipur, Rajasthan" },
+    { "value": "gurugram,haryana", "label": "Gurugram, Haryana" },
     { "value": "noida,uttarpradesh", "label": "Noida, Uttar Pradesh" }
+
   ]
   
