@@ -30,6 +30,11 @@ const navitems: lNavProps[] = [
     icon: <PiBagSimpleBold />,
     href: "add-company",
   },
+  {
+    title: "Contact queries",
+    icon: <PiBagSimpleBold />,
+    href: "contact-queries",
+  },
 ];
 const Sidebar = () => {
   const navigate = useNavigate();

@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import Sidebar from "./components/Sidebar";
 import AddCompany from "./components/AddCompany";
 import AllCompany from "./components/AllCompany";
+import ContactUs from "./components/ContactUs";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
         <Route path="/add-job" element={<AddJob />} />
         <Route path="/add-company" element={<AddCompany />} />
         <Route path="/all-companies" element={<AllCompany />} />
+        <Route path="/contact-queries" element={<ContactUs />} />
       </Routes>
       </div>
     </div>
